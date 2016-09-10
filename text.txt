@@ -1,1 +1,5 @@
 WHAT UP, WE'RE PRACTICING GIT
+
+var age: Int = 23
+
+print(age)
